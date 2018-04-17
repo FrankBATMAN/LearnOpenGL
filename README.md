@@ -1,1 +1,1 @@
-# LearnOpenG_6.0
+# LearnOpenGL_6.0
